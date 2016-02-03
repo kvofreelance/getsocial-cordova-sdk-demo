@@ -22,6 +22,8 @@ package com.getsocial.cordova;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
+import im.getsocial.sdk.core.GetSocial;
+
 public class MainActivity extends CordovaActivity
 {
     @Override
@@ -30,5 +32,17 @@ public class MainActivity extends CordovaActivity
         super.onCreate(savedInstanceState);
         // Set by <content src="index.html" /> in config.xml
         loadUrl(launchUrl);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        GetSocial.getInstance(getApplicationContext()).onResume(this);
+    }    
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        GetSocial.getInstance(getApplicationContext()).onPause();
     }
 }
