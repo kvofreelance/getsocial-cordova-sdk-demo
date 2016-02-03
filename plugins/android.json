@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        },
+        "com.getsocialsdk.cordova": {
+            "FACEBOOK_APP_ID": "1470803889832802",
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        }
+    },
+    "dependent_plugins": {}
+}

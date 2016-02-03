@@ -9,5 +9,13 @@
         "variables": {
             "FACEBOOK_APP_ID": "1470803889832802"
         }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

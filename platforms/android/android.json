@@ -1,0 +1,166 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Whitelist\"><param name=\"android-package\" value=\"org.apache.cordova.whitelist.WhitelistPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"GetSocialCordova\"><param name=\"android-package\" value=\"com.getsocialsdk.cordova.plugin.GetSocialCordova\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"GetSocialConfiguration\"><param name=\"android-package\" value=\"com.getsocialsdk.cordova.plugin.GetSocialConfiguration\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"GetSocialPluginEvents\"><param name=\"android-package\" value=\"com.getsocialsdk.cordova.plugin.GetSocialPluginEvents\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "res/values/strings.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<string name=\"facebook_app_id\">1470803889832802</string>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<permission android:name=\"com.getsocial.cordova.gcm.permission.C2D_MESSAGE\" android:protectionLevel=\"signature\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"com.getsocial.cordova.gcm.permission.C2D_MESSAGE\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"com.google.android.c2dm.permission.RECEIVE\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\" />",
+                            "count": 1
+                        }
+                    ],
+                    "/manifest/application/activity": [
+                        {
+                            "xml": "<intent-filter><action android:name=\"getsocial.intent.action.NOTIFICATION_RECEIVE\" /><category android:name=\"android.intent.category.DEFAULT\" /></intent-filter>",
+                            "count": 1
+                        }
+                    ],
+                    "/manifest/application": [
+                        {
+                            "xml": "<receiver android:name=\"im.getsocial.sdk.core.gms.InstallReferrerReceiver\"><intent-filter><action android:name=\"com.android.vending.INSTALL_REFERRER\" /></intent-filter></receiver>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<receiver android:name=\"im.getsocial.sdk.core.GetSocialReceiver\" android:permission=\"com.google.android.c2dm.permission.SEND\"><intent-filter><action android:name=\"com.google.android.c2dm.intent.REGISTRATION\" /><action android:name=\"com.google.android.c2dm.intent.RECEIVE\" /><category android:name=\".gcm\" /></intent-filter><intent-filter><action android:name=\"im.getsocial.sdk.intent.RECEIVE\" /><data android:scheme=\"getSocialNotificationId\" /></intent-filter></receiver>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<meta-data android:name=\"com.facebook.sdk.ApplicationId\" android:value=\"@string/facebook_app_id\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<meta-data android:name=\"com.google.android.gms.version\" android:value=\"@integer/google_play_services_version\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<activity android:configChanges=\"keyboard|keyboardHidden|screenLayout|screenSize|orientation\" android:label=\"@string/app_name\" android:name=\"com.facebook.FacebookActivity\" android:theme=\"@android:style/Theme.Translucent.NoTitleBar\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        },
+        "com.getsocialsdk.cordova": {
+            "FACEBOOK_APP_ID": "1470803889832802",
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-whitelist/whitelist.js",
+            "id": "cordova-plugin-whitelist.whitelist",
+            "runs": true
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/Configuration.js",
+            "id": "com.getsocialsdk.cordova.Configuration",
+            "clobbers": [
+                "Configuration"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/GetSocial.js",
+            "id": "com.getsocialsdk.cordova.GetSocial",
+            "clobbers": [
+                "GetSocial"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/plugin/InvitePlugin.js",
+            "id": "com.getsocialsdk.cordova.InvitePlugin",
+            "clobbers": [
+                "InvitePlugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/plugin/Plugin.js",
+            "id": "com.getsocialsdk.cordova.Plugin",
+            "clobbers": [
+                "Plugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/FacebookInvitePlugin.js",
+            "id": "com.getsocialsdk.cordova.FacebookInvitePlugin",
+            "clobbers": [
+                "FacebookInvitePlugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/SmartInviteViewBuilder.js",
+            "id": "com.getsocialsdk.cordova.SmartInviteViewBuilder",
+            "clobbers": [
+                "SmartInviteViewBuilder"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/view/ViewBuilder.js",
+            "id": "com.getsocialsdk.cordova.ViewBuilder",
+            "clobbers": [
+                "ViewBuilder"
+            ]
+        }
+    ]
+}
