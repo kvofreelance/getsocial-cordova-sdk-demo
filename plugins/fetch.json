@@ -1,0 +1,13 @@
+{
+    "com.getsocialsdk.cordova": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kvofreelance/getsocial-cordova-plugin.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "FACEBOOK_APP_ID": "1470803889832802"
+        }
+    }
+}
