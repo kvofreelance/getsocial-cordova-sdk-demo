@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/bevzhome/Documents/mart/GetSocial/GetSocialCordovaPlugin/platforms/android/CordovaLib/assets"/></dataSet><dataSet config="release"><source path="/home/bevzhome/Documents/mart/GetSocial/GetSocialCordovaPlugin/platforms/android/CordovaLib/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\mart\getsocial-cordova-sdk-demo\platforms\android\CordovaLib\assets"/></dataSet><dataSet config="release"><source path="D:\mart\getsocial-cordova-sdk-demo\platforms\android\CordovaLib\src\release\assets"/></dataSet></merger>
