@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="getsocial-android-sdk-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/getsocial-android-sdk-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
