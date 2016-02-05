@@ -47,7 +47,12 @@ function initGetSocialSdk() {
     log(LogType.DEBUG, "Start init GetSocial")
     updateMetaData();
 
-    //getSocial.RegisterPlugin(IdentityInfo.ProviderFacebook, new FacebookInvitePlugin(authMenuSection.LoginWithFacebook));
+    var facebookInvitePlugin = new FacebookInvitePlugin();
+
+    window.GetSocial.getInstance().registerPlugin(
+        function(data){
+           log(LogType.DEBUG, "Facebook successfully registered with id "+data)
+        }, facebookInvitePlugin);
 
     window.GetSocial.getInstance().setOnInviteFriendsListener(
         function(){
@@ -71,17 +76,32 @@ function initGetSocialSdk() {
 
 function createSmartInviteView() {
     var smartInviteView = new SmartInviteViewBuilder()
-//    smartInviteView.setSubject("Custom Subject")
-//    smartInviteView.setText("Custom Text")
-//    smartInviteView.setTitle("Custom Title")
-    smartInviteView.show();
+    .setTitle("Custom Title")
+    .setSubject("Custom Subject")
+    .setText("Custom Text")
+    .show();
 }
 
 function registerFacebookInvitePlugin() {
-    var facebookInvitePlugin = new FacebookInvitePlugin();
-    window.GetSocial.getInstance().registerPlugin(
-    function(data){
-       log(LogType.DEBUG, "Facebook successfully registered with id "+data)
-    }, facebookInvitePlugin);
+
+}
+
+function defaultUICustomization() {
+    window.Configuration.getInstance().clear(
+    function() {
+        updateConfigurationUILabel();
+    });
+}
+
+function ruzzleUICustomization() {
+    var path = "www/getsocial/ruzzle/ruzzle.json"
+    window.Configuration.getInstance().setConfiguration(path,
+    function() {
+        updateConfigurationUILabel();
+    } );
+}
+
+function updateConfigurationUILabel() {
+    log(LogType.DEBUG, "UI cutomization changed");
 }
 
