@@ -11,9 +11,16 @@
             "PACKAGE_NAME": "com.getsocial.cordova"
         },
         "com.getsocialsdk.cordova": {
-            "FACEBOOK_APP_ID": "1470803889832802",
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocialCordovaPlugin",
             "PACKAGE_NAME": "com.getsocial.cordova"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "phonegap-facebook-plugin": {
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocialCordovaPlugin",
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        }
+    }
 }

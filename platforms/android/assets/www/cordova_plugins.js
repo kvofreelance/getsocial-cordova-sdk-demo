@@ -6,6 +6,13 @@ module.exports = [
         "runs": true
     },
     {
+        "file": "plugins/phonegap-facebook-plugin/facebookConnectPlugin.js",
+        "id": "phonegap-facebook-plugin.FacebookConnectPlugin",
+        "clobbers": [
+            "facebookConnectPlugin"
+        ]
+    },
+    {
         "file": "plugins/com.getsocialsdk.cordova/www/Configuration.js",
         "id": "com.getsocialsdk.cordova.Configuration",
         "clobbers": [

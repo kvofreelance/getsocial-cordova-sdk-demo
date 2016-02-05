@@ -2,7 +2,7 @@ cordova.define("com.getsocialsdk.cordova.InvitePlugin", function(require, export
 
   var Plugin = require('./Plugin')
 
-  var nativeBridgeName = "GetSocialPluginEvents";
+  var NATIVE_BRIDGE_NAME = "GetSocialPluginEvents";
 
   var InvitePlugin = function() {
   }
@@ -17,19 +17,19 @@ cordova.define("com.getsocialsdk.cordova.InvitePlugin", function(require, export
 
   InvitePlugin.prototype.completeCallback = function(s, list) {
     if(this.isAvailableCallbackID())
-      cordova.exec(null, null, nativeBridgeName, "completeCallback", [this.callbackId, s, list]);
+      cordova.exec(null, null, NATIVE_BRIDGE_NAME, "completeCallback", [this.callbackId, s, list]);
   }
   InvitePlugin.prototype.cancelCallback = function() {
     if(this.isAvailableCallbackID())
-      cordova.exec(null, null, nativeBridgeName, "cancelCallback", [this.callbackId]);
+      cordova.exec(null, null, NATIVE_BRIDGE_NAME, "cancelCallback", [this.callbackId]);
   }
   InvitePlugin.prototype.errorCallback = function() {
     if(this.isAvailableCallbackID())
-      cordova.exec(null, null, nativeBridgeName, "errorCallback", [this.callbackId]);
+      cordova.exec(null, null, NATIVE_BRIDGE_NAME, "errorCallback", [this.callbackId]);
   }
   InvitePlugin.prototype.clickedCallback = function() {
     if(this.isAvailableCallbackID())
-      cordova.exec(null, null, nativeBridgeName, "clickedCallback", [this.callbackId]);
+      cordova.exec(null, null, NATIVE_BRIDGE_NAME, "clickedCallback", [this.callbackId]);
   }
 
 

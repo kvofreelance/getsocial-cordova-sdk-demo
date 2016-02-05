@@ -1,4 +1,12 @@
 {
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
     "com.getsocialsdk.cordova": {
         "source": {
             "type": "git",
@@ -7,15 +15,17 @@
         },
         "is_top_level": true,
         "variables": {
-            "FACEBOOK_APP_ID": "1470803889832802"
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocialCordovaPlugin"
         }
     },
-    "cordova-plugin-whitelist": {
+    "phonegap-facebook-plugin": {
         "source": {
-            "type": "registry",
-            "id": "cordova-plugin-whitelist@1"
+            "type": "git",
+            "url": "https://github.com/Wizcorp/phonegap-facebook-plugin",
+            "subdir": "."
         },
-        "is_top_level": true,
+        "is_top_level": false,
         "variables": {}
     }
 }

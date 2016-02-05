@@ -50,23 +50,25 @@ public class GetSocialCordova extends CordovaPlugin {
     }
 
     private void init(final String key, final CallbackContext callbackContext) {
-        getSocialImpl().init(key, new GetSocial.OperationObserver()
-                {
-                    @Override
-                    public void onSuccess(String data)
-                    {
-                        callbackContext.success(data);
-                        Log.d(TAG, "GetSocial initialization successful");
-                    }
+        cordova.getThreadPool().execute(new Runnable() {
+            @Override
+            public void run() {
+                getSocialImpl().init(key, new GetSocial.OperationObserver() {
+                            @Override
+                            public void onSuccess(String data) {
+                                callbackContext.success(data);
+                                Log.d(TAG, "GetSocial initialization successful");
+                            }
 
-                    @Override
-                    public void onFailure()
-                    {
-                        callbackContext.error("GetSocial initialization failed");
-                        Log.d(TAG, "GetSocial initialization failed");
-                    }
-                }
-        );
+                            @Override
+                            public void onFailure() {
+                                callbackContext.error("GetSocial initialization failed");
+                                Log.d(TAG, "GetSocial initialization failed");
+                            }
+                        }
+                );
+            }
+        });
     }
     private boolean isInitialized() {
         return getSocialImpl().isInitialized();
@@ -121,17 +123,14 @@ public class GetSocialCordova extends CordovaPlugin {
 
                 for (int i = 0; i < list.size(); i++) {
                     Map<String, String> entries = list.get(i);
-                    JSONArray array = new JSONArray();
+                    JSONObject obj = new JSONObject();
                     for (Map.Entry<String, String> entry : entries.entrySet()) {
                         try {
-                            JSONObject obj = new JSONObject();
                             obj.put(entry.getKey(), entry.getValue());
-                            array.put(obj);
-                        } catch (Exception e) {
-                        }
+                        } catch (Exception e) {}
                     }
 
-                    resultArray.put(array);
+                    resultArray.put(obj);
                 }
 
                 PluginResult pluginResult = new PluginResult(PluginResult.Status.OK, resultArray);
