@@ -1,0 +1,162 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"FacebookConnectPlugin\"><param name=\"ios-package\" value=\"FacebookConnectPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<plugin name=\"FacebookConnectPlugin\" value=\"FacebookConnectPlugin\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<access origin=\"https://m.facebook.com\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<access origin=\"https://graph.facebook.com\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<access origin=\"https://api.facebook.com\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<access origin=\"https://*.fbcdn.net\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<access origin=\"https://*.akamaihd.net\" />",
+                            "count": 1
+                        }
+                    ],
+                    "/widget": [
+                        {
+                            "xml": "<feature name=\"GetSocialCordova\"><param name=\"ios-package\" value=\"GetSocialCordova\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"GetSocialPluginEvents\"><param name=\"ios-package\" value=\"GetSocialPluginEvents\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"GetSocialConfiguration\"><param name=\"ios-package\" value=\"GetSocialConfig\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "*-Info.plist": {
+                "parents": {
+                    "FacebookAppID": [
+                        {
+                            "xml": "<string>1470803889832802</string>",
+                            "count": 1
+                        }
+                    ],
+                    "FacebookDisplayName": [
+                        {
+                            "xml": "<string>GetSocial SDK Demo</string>",
+                            "count": 1
+                        }
+                    ],
+                    "CFBundleURLTypes": [
+                        {
+                            "xml": "<array><dict><key>CFBundleURLSchemes</key><array><string>fb1470803889832802</string></array></dict></array>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocial SDK Demo",
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        },
+        "com.getsocialsdk.cordova": {
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocial SDK Demo",
+            "PACKAGE_NAME": "com.getsocial.cordova"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/phonegap-facebook-plugin/facebookConnectPlugin.js",
+            "id": "phonegap-facebook-plugin.FacebookConnectPlugin",
+            "pluginId": "phonegap-facebook-plugin",
+            "clobbers": [
+                "facebookConnectPlugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/Configuration.js",
+            "id": "com.getsocialsdk.cordova.Configuration",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "Configuration"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/GetSocial.js",
+            "id": "com.getsocialsdk.cordova.GetSocial",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "GetSocial"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/plugin/InvitePlugin.js",
+            "id": "com.getsocialsdk.cordova.InvitePlugin",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "InvitePlugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/plugin/Plugin.js",
+            "id": "com.getsocialsdk.cordova.Plugin",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "Plugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/FacebookInvitePlugin.js",
+            "id": "com.getsocialsdk.cordova.FacebookInvitePlugin",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "FacebookInvitePlugin"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/SmartInviteViewBuilder.js",
+            "id": "com.getsocialsdk.cordova.SmartInviteViewBuilder",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "SmartInviteViewBuilder"
+            ]
+        },
+        {
+            "file": "plugins/com.getsocialsdk.cordova/www/view/ViewBuilder.js",
+            "id": "com.getsocialsdk.cordova.ViewBuilder",
+            "pluginId": "com.getsocialsdk.cordova",
+            "clobbers": [
+                "ViewBuilder"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libsqlite3.dylib": 2,
+    "Social.framework": 2,
+    "Accounts.framework": 2,
+    "Security.framework": 2,
+    "Accelerate.framework": 2,
+    "AdSupport.framework": 2,
+    "AudioToolbox.framework": 2,
+    "AVFoundation.framework": 2,
+    "CoreImage.framework": 2,
+    "CoreLocation.framework": 2,
+    "CoreMedia.framework": 2,
+    "CoreTelephony.framework": 2,
+    "CoreText.framework": 2,
+    "MessageUI.framework": 2,
+    "SystemConfiguration.framework": 2,
+    "libiconv.tbd": 2,
+    "libresolv.tbd": 2,
+    "libsqlite3.tbd": 2,
+    "libxml2.tbd": 2,
+    "libz.tbd": 2
+}

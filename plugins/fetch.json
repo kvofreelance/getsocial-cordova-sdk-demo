@@ -7,18 +7,6 @@
         "is_top_level": true,
         "variables": {}
     },
-    "com.getsocialsdk.cordova": {
-        "source": {
-            "type": "git",
-            "url": "https://github.com/kvofreelance/getsocial-cordova-plugin.git",
-            "subdir": "."
-        },
-        "is_top_level": true,
-        "variables": {
-            "APP_ID": "1470803889832802",
-            "APP_NAME": "GetSocialCordovaPlugin"
-        }
-    },
     "phonegap-facebook-plugin": {
         "source": {
             "type": "git",
@@ -27,5 +15,16 @@
         },
         "is_top_level": false,
         "variables": {}
+    },
+    "com.getsocialsdk.cordova": {
+        "source": {
+            "type": "local",
+            "path": "../getsocial-cordova-plugin"
+        },
+        "is_top_level": true,
+        "variables": {
+            "APP_ID": "1470803889832802",
+            "APP_NAME": "GetSocial SDK Demo"
+        }
     }
 }

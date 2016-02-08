@@ -30,7 +30,7 @@ cordova.define("com.getsocialsdk.cordova.FacebookInvitePlugin", function(require
           scope.cancelCallback();
         }
       }, function(err) {
-        console.log(JSON.stringify(err))
+        console.log(JSON.stringify(data))
         if(err.errorCode != null && err.errorCode == 4201) {
           scope.cancelCallback();
         } else {
@@ -44,9 +44,10 @@ cordova.define("com.getsocialsdk.cordova.FacebookInvitePlugin", function(require
       scope.errorCallback(err);
     }
 
-
-
-    facebookConnectPlugin.getLoginStatus( function(userData) {
+    if(cordova.platformId === "ios") {
+      showInviteFriendsDialog(subject, text, referralDataUrl, image);
+    } else {
+      facebookConnectPlugin.getLoginStatus( function(userData) {
         if(userData.status !== "connected") {
           facebookConnectPlugin.login(["public_profile"],
              function() { showInviteFriendsDialog(subject, text, referralDataUrl, image) },
@@ -55,7 +56,9 @@ cordova.define("com.getsocialsdk.cordova.FacebookInvitePlugin", function(require
         } else {
           showInviteFriendsDialog(subject, text, referralDataUrl, image);
         }
-      }, onError);
+      }, onError);  
+    }
+    
   }
 
   FacebookInvitePlugin.prototype.__proto__ = InvitePlugin.prototype;

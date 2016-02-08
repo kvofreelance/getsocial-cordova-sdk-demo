@@ -5,7 +5,7 @@
         "height": 1136,
         "ppi": 72
     },
-    "assets-base-path": "www/getsocial/ruzzle",
+    "assets-base-path": "ruzzle",
     "elements": {
         "window": {
             "width": 626,
@@ -18,11 +18,11 @@
         "header": {
             "height": 78,
             "bg-color": "0x00000000",
-
-            "title": {
-                "padding-top": 8,
+            "padding-top": 8,
             "padding-bottom": 6
-        },"text-style": "header"
+        },
+        "title": {
+            "text-style": "header"
         },
         "back-button": {
             "width": 66,
