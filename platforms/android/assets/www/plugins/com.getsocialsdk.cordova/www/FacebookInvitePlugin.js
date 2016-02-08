@@ -30,7 +30,7 @@ cordova.define("com.getsocialsdk.cordova.FacebookInvitePlugin", function(require
           scope.cancelCallback();
         }
       }, function(err) {
-        console.log(JSON.stringify(data))
+        console.log(JSON.stringify(err))
         if(err.errorCode != null && err.errorCode == 4201) {
           scope.cancelCallback();
         } else {
@@ -43,6 +43,8 @@ cordova.define("com.getsocialsdk.cordova.FacebookInvitePlugin", function(require
       console.log(JSON.stringify(err))
       scope.errorCallback(err);
     }
+
+
 
     facebookConnectPlugin.getLoginStatus( function(userData) {
         if(userData.status !== "connected") {

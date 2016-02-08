@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/com_facebook_close.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\com_facebook_close.png"
     }
 ]

@@ -1,306 +1,458 @@
 [
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_background.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_background.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_close.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_close.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_focused.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_default_icon.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_default_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_selected.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_selected.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_loginbutton_silver.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_loginbutton_silver.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_focused.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_on.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_on.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon_selected.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_profile_picture_blank_portrait.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_place_default_icon.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_place_default_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_top_button.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_logo.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_logo.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_grey_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_normal.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_divider.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_divider.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_item_background.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_focused.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_off.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_off.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background_selected.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_top_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_top_background.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_top_button.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_top_button.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_background.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_section_header_background.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_selected.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_selected.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_pressed.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_default_icon.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_logo.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_logo.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_selected.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_selected.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_inverse_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_inverse_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_close.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_on.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_on.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_inverse_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_inverse_icon.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_pressed.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_pressed.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_focused.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_item_background.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_item_background.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_pressed.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_place_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_place_default_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_close.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_close.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_off.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_pressed.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_pressed.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_pressed.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_button.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_focused.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_off.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_off.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_button.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background_selected.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background_selected.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_list_divider.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_list_divider.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_top_button.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon_selected.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon_selected.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_item_background.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_place_default_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_button.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_button.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_loginbutton_silver.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_background.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_background.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_icon.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_inverse_icon.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_inverse_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_top_button.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_divider.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_divider.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_focused.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_pressed.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_pressed.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_button.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_button.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon_selected.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon_selected.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_selector.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_blue_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue_normal.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_logo.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_logo.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_grey_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_grey_focused.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_selected.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_selected.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_pressed.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_pressed.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_background.xml",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_background.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_inverse_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_inverse_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_item_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_item_background.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_check.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_check.xml"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_normal.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_top_button.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_top_button.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_divider.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_top_background.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_logo.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_logo.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_place_default_icon.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_place_default_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_background_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_background_selected.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_item_background.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_item_background.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_inverse_icon.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_inverse_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_place_default_icon.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_normal.9.png"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_selected.xml",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_selected.xml"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_profile_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_profile_default_icon.png"
     },
     {
-        "merged": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_default_icon.png",
-        "source": "D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_default_icon.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check.xml"
     },
     {
-        "merged": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background_selected.png",
-        "source": "D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background_selected.png"
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_check_on.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_selector_background_transition.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_longpressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_pressed.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_icon_selected.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_list_section_header_background.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_picker_list_selector_disabled.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_check_off.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_blue.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_logo.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like_background.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_like.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_button_like.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\mart\\getsocial-cordova-sdk-demo\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/D:\\home\\bevzhome\\Documents\\mart\\GetSocial\\GetSocialCordovaPlugin\\platforms\\android\\phonegap-facebook-plugin\\cordova-FacebookLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_close.png",
+        "source": "/Users/adventis/Documents/Work/GetSocial/getsocial-cordova-sdk-demo/platforms/android/phonegap-facebook-plugin/cordova-FacebookLib/build/intermediates/bundles/debug/res/drawable/com_facebook_close.png"
     }
 ]
