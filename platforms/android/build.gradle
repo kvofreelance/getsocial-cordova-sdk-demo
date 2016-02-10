@@ -249,7 +249,10 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     debugCompile project(path: "CordovaLib", configuration: "debug")
     releaseCompile project(path: "CordovaLib", configuration: "release")
-    // SUB-PROJECT DEPENDENCIES END
+    compile 'com.facebook.android:facebook-android-sdk:3.21.1'
+    compile 'com.google.android.gms:play-services-gcm:8.1.0'
+    compile 'com.google.android.gms:play-services-ads:8.1.0'
+    compile 'com.google.android.gms:play-services-plus:8.1.0'
 }
 
 def promptForReleaseKeyPassword() {
