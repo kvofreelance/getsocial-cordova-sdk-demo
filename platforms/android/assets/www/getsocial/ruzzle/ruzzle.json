@@ -5,7 +5,7 @@
         "height": 1136,
         "ppi": 72
     },
-    "assets-base-path": "ruzzle",
+    "assets-base-path": "www/getsocial/ruzzle",
     "elements": {
         "window": {
             "width": 626,

@@ -1,8 +1,8 @@
 {
-    "libsqlite3.dylib": 2,
-    "Social.framework": 2,
+    "libsqlite3.dylib": 3,
+    "Social.framework": 3,
     "Accounts.framework": 2,
-    "Security.framework": 2,
+    "Security.framework": 3,
     "Accelerate.framework": 2,
     "AdSupport.framework": 2,
     "AudioToolbox.framework": 2,

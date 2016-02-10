@@ -63,7 +63,7 @@
     <key>FacebookAppID</key>
     <string>1470803889832802</string>
     <key>FacebookDisplayName</key>
-    <string>GetSocial SDK Demo</string>
+    <string>GetSocial Cordova Demo</string>
     <key>CFBundleURLTypes</key>
     <array>
       <dict>

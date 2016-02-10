@@ -124,7 +124,7 @@
                             "count": 1
                         },
                         {
-                            "xml": "<string name=\"fb_app_name\">GetSocial SDK Demo</string>",
+                            "xml": "<string name=\"fb_app_name\">GetSocial Cordova Demo</string>",
                             "count": 1
                         }
                     ]
@@ -138,12 +138,12 @@
         },
         "phonegap-facebook-plugin": {
             "APP_ID": "1470803889832802",
-            "APP_NAME": "GetSocial SDK Demo",
+            "APP_NAME": "GetSocial Cordova Demo",
             "PACKAGE_NAME": "com.getsocial.cordova"
         },
         "com.getsocialsdk.cordova": {
             "APP_ID": "1470803889832802",
-            "APP_NAME": "GetSocial SDK Demo",
+            "APP_NAME": "GetSocial Cordova Demo",
             "PACKAGE_NAME": "com.getsocial.cordova"
         }
     },
