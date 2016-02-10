@@ -20,10 +20,10 @@
 		3047A5121AB8059700498E2A /* build-debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A50F1AB8059700498E2A /* build-debug.xcconfig */; };
 		3047A5131AB8059700498E2A /* build-release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5101AB8059700498E2A /* build-release.xcconfig */; };
 		3047A5141AB8059700498E2A /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5111AB8059700498E2A /* build.xcconfig */; };
-		33CD4F2CB7F14592AF1A4D1E /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8DF68BCAE454D97AF08E60E /* FacebookSDK.framework */; };
 		3B47FC0BDCF7449A848EA503 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDC4DF0FA9284D17BE371143 /* Social.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		3D1962B6610143BCA940CDA8 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 884D78CB9BA94354A768E5D8 /* libxml2.tbd */; settings = {ATTRIBUTES = (Weak, ); }; };
 		51E110BE99194F12808F42F4 /* FacebookConnectPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = F2E718BA2CC4418D8E4B4F08 /* FacebookConnectPlugin.m */; };
+		52760C7F1C6B36FD007F1AD8 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8DF68BCAE454D97AF08E60E /* FacebookSDK.framework */; };
 		529635841C6962C100B6E1CF /* GetSocial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 529635811C6962C100B6E1CF /* GetSocial.framework */; };
 		529635851C6962C100B6E1CF /* GetSocial.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 529635831C6962C100B6E1CF /* GetSocial.bundle */; };
 		54E84CA2CA8943EE8B5EC6F9 /* GetSocialPluginEvents.m in Sources */ = {isa = PBXBuildFile; fileRef = 02D5DF0C115049CFA4539491 /* GetSocialPluginEvents.m */; };
@@ -123,6 +123,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52760C7F1C6B36FD007F1AD8 /* FacebookSDK.framework in Frameworks */,
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				8FAF1EF00C674249A5BC261C /* libsqlite3.dylib in Frameworks */,
 				3B47FC0BDCF7449A848EA503 /* Social.framework in Frameworks */,
@@ -145,7 +146,6 @@
 				F55898ED2AFB4102AC94E6AA /* libsqlite3.tbd in Frameworks */,
 				3D1962B6610143BCA940CDA8 /* libxml2.tbd in Frameworks */,
 				12A93843E2534B37A1C066F2 /* libz.tbd in Frameworks */,
-				33CD4F2CB7F14592AF1A4D1E /* FacebookSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -446,6 +446,9 @@
 					Cordova,
 					"Demo/Plugins/phonegap-facebook-plugin",
 					"$(PROJECT_DIR)/GetSocial.embeddedframework",
+					"$(PROJECT_DIR)/GetSocial",
+					Cordova,
+					"Demo/Plugins/phonegap-facebook-plugin",
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -479,6 +482,9 @@
 					Cordova,
 					"Demo/Plugins/phonegap-facebook-plugin",
 					"$(PROJECT_DIR)/GetSocial.embeddedframework",
+					"$(PROJECT_DIR)/GetSocial",
+					Cordova,
+					"Demo/Plugins/phonegap-facebook-plugin",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GetSocial Cordova Demo/GetSocial Cordova Demo-Prefix.pch";
